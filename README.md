@@ -2,9 +2,9 @@
 fDigit on Git Hub
 
 ## Practicing GitHub
-I am practicing how to use the README file
+I am practicing how to use GitHub/
 
-### INSTRCTIONS
+### INSTRUCTIONS
 - Don't stop till you get to the top
 - Then, keep climbing.
 - Never give up
